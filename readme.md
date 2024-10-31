@@ -16,7 +16,7 @@
   - **Technologies Used**: Node.js, Next.js, TypeScript...
   - **My Contribution**: 100%
 
-  ![CleanShot 2024-10-31 at 23.44.00@2x](asset/简历/CleanShot 2024-10-31 at 23.44.00@2x-0389467.png)
+  ![CleanShot 2024-11-01 at 00.07.13@2x](asset/readme/CleanShot 2024-11-01 at 00.07.13@2x.png)
 
   ### Instinct Method • [instinctmethod.com](http://www.instinctmethod.com) • An App for Rapid Language Learning
 
@@ -25,7 +25,7 @@
   - **Technologies Used**: Flutter, React, Node.js, TypeScript...
   - **My Contribution**: 100%
 
-  <img src="asset/简历/IMG_8386.jpg" alt="IMG_8386" style="zoom: 25%;" />
+  <img src="asset/readme/IMG_8387.jpg" alt="IMG_8387" style="zoom:25%;" />
 
   ### Biaoyansu • [biaoyansu.com](http://www.biaoyansu.com) • Programming Tutorial Website
 
@@ -58,9 +58,9 @@
 
   ## Skills
 
-  My main technology stack:
+  My main technical skill set:
 
-  - Languages
+  - Programming Languages
     - JavaScript
     - TypeScript
     - Python
@@ -147,7 +147,7 @@
       - Knex
     - Cloud Services Usage
       - Elastic Compute
-      - Cloud Functions
+      - Cloud Functions/Lambda
       - Object Storage
       - Message Queues
       - Cloud Monitoring
