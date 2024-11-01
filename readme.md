@@ -199,6 +199,11 @@ Struggling to write code quickly? Check out CodeFlow!
     - Adobe: Illustrator/Photoshop/XD
     - MS Office: Word/PowerPoint/Excel
 
+### Language
+
+- English
+- Chinese
+
 ## Contact Information
 
 - **Email**: [hailang@role2.com](mailto:hailang@role2.com)
