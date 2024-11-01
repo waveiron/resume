@@ -205,3 +205,4 @@ Struggling to write code quickly? Check out CodeFlow!
 - **Phone**: [+86 18612347895](tel:+8618612347895)
 - **Telegram**: [t.me/role2hailang](https://t.me/role2hailang)
 - **Wechat**：role2hailang
+- **Profile**: [role2.com/hailang](https://www.role2.com/hailang)
