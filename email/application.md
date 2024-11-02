@@ -12,7 +12,7 @@ I can **build and lead a strong team**, effectively managing projects to get thi
 - **Development**: Proficient in multiple languages, with extensive experience in web development.
 - **Product**: Experience in feature planning, design coordination, and user feedback.
 
-I am excited about the possibility of contributing to your company's mission and supporting the team’s objectives through high-quality, user-centered development. I’d welcome the chance to discuss how my experience and skills align with the company’s needs. Thank you for considering my application.
+I am excited about the possibility of contributing to your company's mission and supporting the team’s objectives through high-quality, user-centered development. I’d welcome the chance to discuss how my experience and skills align with the company’s needs. Full details of my workds and skills can be found in the attached CV. Thank you for considering my application.
 
 Warm regards,
 
