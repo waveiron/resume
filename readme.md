@@ -33,7 +33,7 @@ An app that helps practice new languages quickly to achieve fluency.
 
 ### Biaoyansu • [biaoyansu.com](http://www.biaoyansu.com) • Programming Tutorial Website
 
-My first project, helping 300,000 people improve their programming skills.
+My first project, helping over 300,000 developers improve their programming skills.
 
 - **Technologies Used**: PHP, Laravel, Angular.js, TypeScript...
 - **My Contribution**: 100%
