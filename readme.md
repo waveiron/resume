@@ -62,6 +62,31 @@ Struggling to write code quickly? Check out CodeFlow!
 
 ## My Skills
 
+### Management Skills
+
+- Team Building
+
+  - **Talent Recruitment and Development**: Set recruitment standards, lead interviews, and select and develop suitable talent.
+  - **Team Culture Development**: Foster a collaborative, innovative, and accountable environment to enhance cohesion and a sense of belonging.
+  - **Performance Assessment and Feedback**: Set goals, conduct regular evaluations, and provide feedback to support team members' growth.
+  - **Incentives and Rewards**: Offer rewards and promotion opportunities to motivate efficient work.
+  - **Conflict Management**: Resolve conflicts promptly to maintain team alignment.
+
+- Standardization
+
+  - **Design Standards and Processes**: Establish design guidelines to ensure consistency and high quality in user experience.
+  - **Code Standards**: Set coding standards to improve readability and maintainability.
+  - **Documentation Management**: Improve documentation processes to ensure thorough records.
+  - **Testing Processes**: Ensure comprehensive testing to reduce error risks.
+  - **Process Optimization and Iteration**: Continuously refine processes based on feedback.
+
+- Task Management
+  - **Task Allocation**: Distribute tasks according to skills and priorities to ensure clear responsibilities.
+  - **Progress Tracking**: Use tools to monitor tasks and provide regular updates.
+  - **Priority Management**: Adjust priorities based on needs, focusing on key tasks.
+  - **Risk Alert and Response**: Identify risks and create response plans.
+  - **Review and Reflection**: Conduct post-project reviews, analyze outcomes, and build on experiences.
+
 ### Development Skills
 
 - Programming Languages
