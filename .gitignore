@@ -3,6 +3,7 @@ tmp/
 build/
 dist/
 log/
+.history/
 storage
 package-lock.json
 .env
