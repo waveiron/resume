@@ -48,41 +48,41 @@ Where everyone can be a real estate agent.
 
 - **Programming Languages**
 
-  - JavaScript/TypeScript
+  - JavaScript, TypeScript
   - Python
   - PHP
-  - Rust/Java (Basic)
+  - Rust, Java (Basic)
 
 - **Frameworks**
 
-  - Nest.js/Fastify/Express.js/Koa/Next.js
-  - Laravel/ThinkPHP/Zend
-  - Django/Flask
+  - Nest.js, Fastify, Express.js, Koa, Next.js
+  - Laravel, ThinkPHP, Zend
+  - Django, Flask
 
 - **APIs/Standards**
 
-  - RESTful/GraphQL/Swagger/OpenAPI/JSON Schema/WebSockets/Webhooks
+  - RESTful, GraphQL, Swagger, OpenAPI, JSON Schema, WebSockets, Webhooks
 
 - **Authentication**
 
-  - OAuth/JWT/OpenID Connect
+  - OAuth, JWT, OpenID Connect
 
 - **Databases**
 
-  - MySQL/MariaDB
+  - MySQL, MariaDB
   - PostgreSQL
   - SQL Server
   - MongoDB
-  - Redis/Memcached
+  - Redis, Memcached
 
 - **ORM**
 
-  - Sequelize/Typeorm/Objection.js/drizzle/Prisma/Knex
+  - Sequelize, Typeorm, Objection.js, drizzle, Prisma, Knex
 
 - **Cloud Services**
-  - AWS/Azure/Google Cloud
-  - Elastic Compute/Cloud Functions/Lambda
-  - Cloud Monitoring/Cloud Logging/Cloud Backup
+  - AWS, Azure, Google Cloud
+  - Elastic Compute, Cloud Functions, Lambda
+  - Cloud Monitoring, Cloud Logging, Cloud Backup
   - Cloud Database
   - Object Storage
   - Message Queues
@@ -90,10 +90,10 @@ Where everyone can be a real estate agent.
 
 ### DevOps Skills
 
-- Linux/Unix system administration
-- Docker/Docker Compose/Virtual Machines
-- Bash Usage/Git
-- npm/yarn/pnpm
+- Linux, Unix system administration
+- Docker, Docker Compose, Virtual Machines
+- Bash Usage, Git
+- npm, yarn, pnpm
 
 ### Language Skills
 

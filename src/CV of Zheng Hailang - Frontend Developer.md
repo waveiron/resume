@@ -13,10 +13,7 @@
 A social network platform for creators
 
 - **Frontend Technologies**:
-  - React
-  - Next.js
-  - Tailwind CSS
-  - Shadcn/UI
+  - React, Next.js, Tailwind CSS, Shadcn/UI
 - **Key Achievements**:
   - Implemented responsive design for optimal viewing across devices
   - Built reusable component library
@@ -28,10 +25,7 @@ A social network platform for creators
 Language learning application
 
 - **Frontend Technologies**:
-  - Flutter
-  - React
-  - Next.js
-  - Tailwind CSS
+  - Flutter, React, Next.js, Tailwind CSS
 - **Key Achievements**:
   - Developed cross-platform UI components
   - Implemented smooth animations and transitions
@@ -42,11 +36,7 @@ Language learning application
 
 Programming tutorial platform with 300,000+ users
 
-- **Frontend Technologies**:
-  - Angular
-  - TypeScript
-  - Bootstrap
-  - JQuery
+- **Frontend Technologies**: Angular, TypeScript, Bootstrap, JQuery
 - **Key Achievements**:
   - Built interactive coding exercises
   - Implemented real-time code preview
@@ -57,17 +47,14 @@ Programming tutorial platform with 300,000+ users
 
 Where everyone can be a real estate agent.
 
-- **Technologies Used**
-  - **Backend**: Node.js, Next.js, TypeScript
-  - **Frontend**: uni-app, Vue, Next.js, TypeScript
+- **Technologies Used**: uni-app, Vue, Next.js, TypeScript
 - **My Contribution**: 70% (2024)
 
 #### CodeFlow • [codeflow.biaoyansu.com](https://codeflow.biaoyansu.com/) • Type Code Faster
 
 Struggling to write code quickly? Check out CodeFlow!
 
-- **Technologies Used**
-  - **Frontend**: Vanilla JavaScript
+- **Technologies Used** Vanilla JavaScript
 - **My Contribution**: 100% (2019)
 
 ## Technical Skills
@@ -75,28 +62,15 @@ Struggling to write code quickly? Check out CodeFlow!
 ### Frontend Development
 
 - **Core Technologies**
-
-  - JavaScript/TypeScript
-  - HTML5/CSS3
+  - JavaScript, TypeScript, HTML5, CSS3
   - React, Vue, Angular, Flutter, React Native
   - Next.js, Nuxt.js
   - Tailwind CSS
   - Responsive Design
-
-- **State Management**
-
-  - use-immer/Recoil/Zustand/Redux
-
-- **UI Libraries**
-
-  - shadcn/ui/Material-UI/Ant Design/Bootstrap
-
-- **Testing**
-
-  - Jest/Cypress/Vitest/Playwright
-
-- **Build Tools**
-  - Webpack/Vite/Rollup
+- **State Management**: use-immer, Recoil, Zustand, Redux
+- **UI Libraries**: Shadcn/UI, Material-UI, Ant Design, Bootstrap
+- **Testing**: Jest, Cypress, Vitest, Playwright
+- **Build Tools**: Webpack, Vite, Rollup
 
 ### Cross-Platform Development
 
@@ -122,9 +96,9 @@ Struggling to write code quickly? Check out CodeFlow!
   - **Visual Design**: Able to coordinate the design team to ensure that visual design aligns with brand strategy and market positioning, establishing and continuously improving design standards to enhance design consistency and quality. Capable of optimizing visual effects through user feedback to improve user satisfaction.
   - **Interaction Design**: Skilled in monitoring and evaluating user interaction processes, establishing effective design workflows to ensure team consistency and efficiency when designing solutions. Utilizes data-driven decision-making to enhance product usability and user experience, ensuring design solutions effectively address user pain points.
 - Tools
-  - Prototype: Axure/Figma/Mastergo/Sketch/InVision/Lanhu
-  - Adobe: Illustrator/Photoshop/XD
-  - MS Office: Word/PowerPoint/Excel
+  - **Prototype**: Axure, Figma, Mastergo, Sketch, InVision, Lanhu
+  - **Adobe**: Illustrator, Photoshop, XD
+  - **MS Office**: Word, PowerPoint, Excel
 
 ## Additional Skills
 

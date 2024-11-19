@@ -156,7 +156,7 @@ Struggling to write code quickly? Check out CodeFlow!
     - Zustand
     - Redux
   - UI Component Libraries
-    - shadcn/ui
+    - Shadcn/UI
     - Material-UI
     - Ant Design
     - Bootstrap
@@ -222,13 +222,13 @@ Struggling to write code quickly? Check out CodeFlow!
     - Cloud Databases
     - Container Management
 - Basic Operations
-  - AWS/Azure/Google Cloud usage
+  - **Cloud usage**: AWS, Azure, Google Cloud
   - Linux/Unix system administration
-  - Docker/Docker Compose
+  - Docker, Docker Compose
   - Virtual Machines
   - Bash Usage
 - General Development Tools
-  - npm/yarn/pnpm/brew
+  - npm, yarn, pnpm, brew
   - Git
   - VSCode
   - IntelliJ IDEA
@@ -256,8 +256,8 @@ Struggling to write code quickly? Check out CodeFlow!
     - Sketch
     - InVision
     - Lanhu
-    - Adobe: Illustrator/Photoshop/XD
-    - MS Office: Word/PowerPoint/Excel
+    - **Adobe**: Illustrator, Photoshop, XD
+    - **MS Office**: Word, PowerPoint, Excel
 
 ### Language
 
