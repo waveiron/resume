@@ -8,6 +8,10 @@
   - Frontend/Backend Web Developer
   - Product Manager
   - Project Manager
+- **Years of Experience**:
+  - 10+ years in backend development
+  - 10+ years in frontend development
+  - 5 years in project and team management
 
 ## My Works/Projects
 
