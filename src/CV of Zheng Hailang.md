@@ -17,7 +17,7 @@
 
 The following projects were all led and completed by me.
 
-### Role2 • [role2.com](http://www.role2.com) • A Social Network Platform for Creators
+### Role2 • [role2.com](http://www.role2.com) • A Social Network for Creators
 
 A social network platform built for founders, creators, and investors.
 
