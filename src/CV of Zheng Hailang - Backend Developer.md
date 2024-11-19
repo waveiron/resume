@@ -51,31 +51,21 @@ Where everyone can be a real estate agent.
   - JavaScript/TypeScript
   - Python
   - PHP
-  - Rust (Basic)
-  - Java (Basic)
+  - Rust/Java (Basic)
 
 - **Frameworks**
 
-  - Laravel
-  - Nest
-  - Fastify
-  - Express.js
-  - Koa
+  - Nest.js/Fastify/Express.js/Koa/Next.js
+  - Laravel/ThinkPHP/Zend
+  - Django/Flask
 
 - **APIs/Standards**
 
-  - RESTful
-  - GraphQL
-  - Swagger/OpenAPI
-  - JSON Schema
-  - WebSockets
-  - Webhooks
+  - RESTful/GraphQL/Swagger/OpenAPI/JSON Schema/WebSockets/Webhooks
 
 - **Authentication**
 
-  - OAuth
-  - JWT
-  - OpenID Connect
+  - OAuth/JWT/OpenID Connect
 
 - **Databases**
 
@@ -83,37 +73,26 @@ Where everyone can be a real estate agent.
   - PostgreSQL
   - SQL Server
   - MongoDB
-  - Redis
-  - Memcached
+  - Redis/Memcached
 
 - **ORM**
 
-  - Sequelize
-  - Typeorm
-  - Objection.js
-  - drizzle
-  - Prisma
-  - Knex
+  - Sequelize/Typeorm/Objection.js/drizzle/Prisma/Knex
 
 - **Cloud Services**
   - AWS/Azure/Google Cloud
-  - Elastic Compute
-  - Cloud Functions/Lambda
+  - Elastic Compute/Cloud Functions/Lambda
+  - Cloud Monitoring/Cloud Logging/Cloud Backup
+  - Cloud Database
   - Object Storage
   - Message Queues
-  - Cloud Monitoring
-  - Cloud Logging
-  - Cloud Backup
-  - Cloud Databases
   - Container Management
 
 ### DevOps Skills
 
 - Linux/Unix system administration
-- Docker/Docker Compose
-- Virtual Machines
-- Bash Usage
-- Git
+- Docker/Docker Compose/Virtual Machines
+- Bash Usage/Git
 - npm/yarn/pnpm
 
 ### Language Skills

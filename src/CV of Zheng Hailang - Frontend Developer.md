@@ -85,29 +85,18 @@ Struggling to write code quickly? Check out CodeFlow!
 
 - **State Management**
 
-  - use-immer
-  - Recoil
-  - Zustand
-  - Redux
+  - use-immer/Recoil/Zustand/Redux
 
 - **UI Libraries**
 
-  - shadcn/ui
-  - Material-UI
-  - Ant Design
-  - Bootstrap
+  - shadcn/ui/Material-UI/Ant Design/Bootstrap
 
 - **Testing**
 
-  - Jest
-  - Cypress
-  - Vitest
-  - Playwright
+  - Jest/Cypress/Vitest/Playwright
 
 - **Build Tools**
-  - Webpack
-  - Vite
-  - Rollup
+  - Webpack/Vite/Rollup
 
 ### Cross-Platform Development
 
@@ -126,16 +115,21 @@ Struggling to write code quickly? Check out CodeFlow!
   - Vite
   - Rollup
 
+## Product Skills
+
+- Processes
+  - **Feature Planning**: Capable of leading cross-department teams in requirement analysis and feature planning, integrating diverse opinions to formulate a clear product roadmap that aligns with the company's strategic goals.
+  - **Visual Design**: Able to coordinate the design team to ensure that visual design aligns with brand strategy and market positioning, establishing and continuously improving design standards to enhance design consistency and quality. Capable of optimizing visual effects through user feedback to improve user satisfaction.
+  - **Interaction Design**: Skilled in monitoring and evaluating user interaction processes, establishing effective design workflows to ensure team consistency and efficiency when designing solutions. Utilizes data-driven decision-making to enhance product usability and user experience, ensuring design solutions effectively address user pain points.
+- Tools
+  - Prototype: Axure/Figma/Mastergo/Sketch/InVision/Lanhu
+  - Adobe: Illustrator/Photoshop/XD
+  - MS Office: Word/PowerPoint/Excel
+
 ## Additional Skills
 
 - **Collaboration**: Jira, Slack, Microsoft Teams
 - **Languages**: English, Chinese
-
-## Professional Development
-
-- Regular participant in frontend conferences
-- Active contributor to frontend open-source projects
-- Continuous learning of emerging frontend technologies
 
 ## Contact Information
 
